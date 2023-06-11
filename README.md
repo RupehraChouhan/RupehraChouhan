@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RupehraChouhan
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: https://www.linkedin.com/in/rupehrachouhan 
